@@ -8,7 +8,7 @@ Konsta's original code can be found from his own Githut [konstajurvanen/AvatarFa
 
 ### Install Unity
 [Unity](https://en.wikipedia.org/wiki/Unity_(game_engine)) is a game engine that is used to animate the Avatar face. The Unity projects and installs are handled by the Unity Hub tool that can be installed to Windows, Linux or MacOS by following these simple instructions at the [Install the Unity Hub](https://docs.unity3d.com/hub/manual/InstallHub.html) page of the Unity project. A lot of instructions and teaching material is available at the Unity Web page
-[unity.com](https://unity.com/), but perhaps you benefit by reading this very simple example:
+[unity.com](https://unity.com/), but perhaps you benefit by reading this very simple example (based on this [Beginner's guide](https://forum.unity.com/threads/linux-beginners-guide-for-developers.978321/)):
 
  * [Unity 2D Pong Game](https://noobtuts.com/unity/2d-pong-game)
 
