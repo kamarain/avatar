@@ -7,7 +7,7 @@ Avatar is a Wizard of Oz talking head kind of AI App with whom you can discuss w
 Konsta's original code can be found from his own Githut [konstajurvanen/AvatarFace](https://github.com/konstajurvanen/AvatarFace) repository, but it contains no documentation for those who want to edit the code. The following includes instructions to install Unity and load the code in editor for editing. Moreover, example is given how to deploy the code for Avatar.
 
 ### Head blender model
-The used head model is the the Public Domain (CC0) lisenced "Male Head" blender model from the blendswap.com site: [https://blendswap.com/blend/11745](https://blendswap.com/blend/11745) (you need to register to be able to download the model).
+The used head model is the the Public Domain (CC0) lisenced "Male Head" blender model from the blendswap.com site: [https://blendswap.com/blend/11745](https://blendswap.com/blend/11745) (you need to register to be able to download the model). 
 
 <p align="center">
     <img height="200" src="resources/male_head_11745.jpg">
