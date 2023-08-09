@@ -9,7 +9,9 @@ Konsta's original code can be found from his own Githut [konstajurvanen/AvatarFa
 ### Head blender model
 The used head model is the the Public Domain (CC0) lisenced "Male Head" blender model from the blendswap.com site: [https://blendswap.com/blend/11745](https://blendswap.com/blend/11745) (you need to register to be able to download the model).
 
-![Male Head 11745 from blendswap.com](images/male_head_11745.jpg?raw=true "Male Head 11745 from blendswap.com")
+<p align="center">
+    <img height="200" src="resources/male_head_11745.jpg">
+</p>
 
 ### Install Unity
 [Unity](https://en.wikipedia.org/wiki/Unity_(game_engine)) is a game engine that is used to animate the Avatar face. The Unity projects and installs are handled by the Unity Hub tool that can be installed to Windows, Linux or MacOS by following these simple instructions at the [Install the Unity Hub](https://docs.unity3d.com/hub/manual/InstallHub.html) page of the Unity project. A lot of instructions and teaching material is available at the Unity Web page
