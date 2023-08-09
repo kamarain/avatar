@@ -1,4 +1,4 @@
-# Avatar - Talking AI Head
+# Avatar - A Virtual AI Bot
 Avatar is a conversational AI bot that can be used to study human AI interaction. The bot wake-up word is "Avatar" after which it expects a question which it then responds. Avatar remembers the previous dialog (state).
 
 <p align="center">
