@@ -9,9 +9,17 @@ Konsta's original code can be found from his own Githut [konstajurvanen/AvatarFa
 ### Head blender model
 The used head model is the the Public Domain (CC0) lisenced "Male Head" blender model from the blendswap.com site: [https://blendswap.com/blend/11745](https://blendswap.com/blend/11745) (you need to register to be able to download the model).
 
-![Male Head 11745 from blendswap.com](images/male_head_11745.jpg?raw=true "Male Head 11745 from blendswap.com")
+<p align="center">
+    <img height="200" src="resources/male_head_11745.jpg">
+</p>
 
-### Install Unity
+### Install Blender for visualization and editing the animation rigs
+The downloaded head model is solid in the sense that its mouth or eyes cannot be controlled (animated) by Unity scripts. In order to do that, the rigs need to be added. A great tutorials are available:
+
+ * [Eye Rigging Tutorial in Blender](https://www.youtube.com/watch?v=pzfKz8NX1rQ)
+ * [Blender - Mouth Rigging Tutorial](https://www.youtube.com/watch?v=Map_ro-xUwg)
+
+### Install Unity for animation scripting and building a standalone app
 [Unity](https://en.wikipedia.org/wiki/Unity_(game_engine)) is a game engine that is used to animate the Avatar face. The Unity projects and installs are handled by the Unity Hub tool that can be installed to Windows, Linux or MacOS by following these simple instructions at the [Install the Unity Hub](https://docs.unity3d.com/hub/manual/InstallHub.html) page of the Unity project. A lot of instructions and teaching material is available at the Unity Web page
 [unity.com](https://unity.com/), but perhaps you benefit by reading this very simple example (based on this [Beginner's guide](https://forum.unity.com/threads/linux-beginners-guide-for-developers.978321/)):
 
