@@ -7,7 +7,7 @@ Avatar is a conversational AI bot that can be used to study human AI interaction
 
 Avatar has a modular structure since parts of it have been made as Signal Processing and Machine Learning BSc theses in Tampere University, Finland:
 
- * [Talking head](#talking-head) - Unity animated virtual head by Konsta Jurvanen (2023) - [Thesis](https://urn.fi/URN:NBN:fi:tuni-202211068199) [Code](https://github.com/konstajurvanen/AvatarFace)
+ * [Talking head](#talking-head) - Unity animated virtual head by Konsta Jurvanen (2023) - [Thesis](https://urn.fi/URN:NBN:fi:tuni-202211068199) / [Code](https://github.com/konstajurvanen/AvatarFace)
 
 ## Talking head
 Konsta's original code is available at [konstajurvanen/AvatarFace](https://github.com/konstajurvanen/AvatarFace). The code, however, does not contain much documentation is thus difficult to use. However, his thesis gives a lot of details that help to replicate the Avatar's talking head. Since this part is implementation-wise interesting and visual interaction plays a crucial role, some details for basic understanding of face animation is given. The following four increasingly more complicated models can be implemented:
