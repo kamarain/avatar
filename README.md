@@ -1,10 +1,21 @@
 # Avatar - Talking AI Head
-Avatar is a Wizard of Oz talking head kind of AI App with whom you can discuss with. It contains various software components initially made as BSc theses in Tampere University, Finland:
+Avatar is a conversational AI bot that can be used to study human AI interaction. The bot wake-up word is "Avatar" after which it expects a question and then it answers. It remembers the dialog and is thus more intelligent than a simple question-answer machine.
 
- * Talking head - Unity engine based talking head by Konsta Jurvanen in 2023 [URL](https://urn.fi/URN:NBN:fi:tuni-202211068199)
+<p align="center">
+    <img height="300" src="resources/kandityo_avatar.jpg">
+</p>
+
+Avatar has a modular structure since parts of it have been made as Signal Processing and Machine Learning BSc theses in Tampere University, Finland:
+
+ * [Talking head](#talking-head) - Unity animated virtual head by Konsta Jurvanen (2023) - [Thesis](https://urn.fi/URN:NBN:fi:tuni-202211068199) [Code](https://github.com/konstajurvanen/AvatarFace)
 
 ## Talking head
-Konsta's original code can be found from his own Githut [konstajurvanen/AvatarFace](https://github.com/konstajurvanen/AvatarFace) repository, but it contains no documentation for those who want to edit the code. The following includes instructions to install Unity and load the code in editor for editing. Moreover, example is given how to deploy the code for Avatar.
+Konsta's original code is available at [konstajurvanen/AvatarFace](https://github.com/konstajurvanen/AvatarFace). The code, however, does not contain much documentation is thus difficult to use. However, his thesis gives a lot of details that help to replicate the Avatar's talking head. Since this part is implementation-wise more interesting than it sounds, some details are given in this section. The following four animated heads can be reproduced:
+
+ * Level 0 - static head that does not move
+ * Level 1 - static head that nods when its name is mentioned
+ * Level 2 - eyes follow the closest person
+ * Level 3 - mouth moves when the Avatar speaks
 
 ### Head blender model
 The used head model is the the Public Domain (CC0) lisenced "Male Head" blender model from the blendswap.com site: [https://blendswap.com/blend/11745](https://blendswap.com/blend/11745) (you need to register to be able to download the model). 
