@@ -74,6 +74,10 @@ $ ./avatar_face.x86_64
 ```
 that should open a window that shows the Avatar face.
 
+<p align="center">
+    <img height="200" src="resources/avatar_animated_face_level_0.png">
+</p>
+
 
 
 
